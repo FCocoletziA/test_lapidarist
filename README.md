@@ -20,7 +20,7 @@ The databases are
 - Gringotts_diamonds.csv: Features of the stolen diamonds
 
 ## Results
-The main results are given in the file *Results_linear_regression.csv*. The *obs_ci_lower* and *obs_ci_upper* columns represent 95% prediction inteervals for the diamond values. The *mean_ci_lower*, *mean_ci_upper* columns represent 95% prediction intervals for the conditional mean price of the diamonds.
+The main results are given in the file *Results_linear_regression.csv*. The *obs_ci_lower* and *obs_ci_upper* columns represent 95% prediction intervals for the diamond values. The *mean_ci_lower*, *mean_ci_upper* columns represent 95% prediction intervals for the conditional mean price of the diamonds.
 
 The *Results_manual_solution.csv* file is given just for completeness, since the aforementioned solution is considered superior.
 
