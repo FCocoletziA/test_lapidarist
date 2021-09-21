@@ -1,6 +1,6 @@
 # README
 
-This is a repository for sharing my solution to Intelimétrica's Data Science test. The time used for cracking the problem was about 5 hours.
+This is a repository for sharing my solution to Intelimétrica's Data Science test. The time used for cracking the problem was about 5 hours. More time was taken for the presentation and other documentation.
 
 The language used for solving the problem is `python`. The libraries used for the test are
 - numpy
